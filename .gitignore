@@ -3,3 +3,10 @@ target/
 dbt_modules/
 logs/
 dbt_internal_packages/
+
+.databricks
+
+.vscode/
+databricks/
+.env
+databricks.yml
